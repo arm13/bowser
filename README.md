@@ -1,2 +1,2 @@
 # bowser
-Android Bowser Exploitation Toolkit
+Android Browser Exploitation Toolkit
